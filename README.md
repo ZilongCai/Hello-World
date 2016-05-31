@@ -1,2 +1,2 @@
 # Hello-World
-This is a program of learning to using program!
+This is a program about learning to using github!
